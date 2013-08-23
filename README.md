@@ -19,7 +19,22 @@ code style.
 
 ## Preview
 
-[]()
+Coffeescript
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/coffee.png)  
+
+HTML
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/html.png)  
+Markdown
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/markdown.png)  
+
+Javascript
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/javascript.png)  
+
+Haskell
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/haskell.png)  
+
+SASS
+![](https://raw.github.com/mbixby/github-color-scheme/master/preview/sass.png)  
 
 ## License
 

@@ -10,7 +10,7 @@ Github scheme is ideal for presentations or daylight programming.
 
 * Code that smells nice is a code that looks nice.   
 
-* Try also [Blackbird](https://github.com/mbixby/blackbird) & [Facebook](https://github.com/mbixby/facebook-color-scheme) theme.
+* Try also the subtler [Github Notes](https://github.com/mbixby/github-notes-color-scheme) or the darker [Blackbird](https://github.com/mbixby/blackbird) & [Facebook](https://github.com/mbixby/facebook-color-scheme) combo.
 
 ## Attribution
 

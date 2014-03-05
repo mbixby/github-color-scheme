@@ -4,7 +4,7 @@ Github color scheme is based around a color palette reminiscent of traditional p
 
 Github scheme is ideal for presentations or daylight programming.  
 
-* If you get eye strain when using light themes, [FLux](http://justgetflux.com) may help
+* If you get eye strain when using light themes, [Flux](http://justgetflux.com) may help
 
 * Use with [Bluebird](https://github.com/mbixby/bluebird) for Sublime. Bluebird also includes packages for Markdown and Coffeescript with better support for Github color scheme. 
   
